@@ -1,3 +1,2 @@
 # CIFAR10-CNN
-Custom CNN architecture for CIFAR-10
-Testing accuracy: 90.22%
+Custom PyTorch model for CIFAR-10 (Testing accuracy: 90.22%)
